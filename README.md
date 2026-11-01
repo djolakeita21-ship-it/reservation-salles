@@ -50,7 +50,8 @@ Le script de création est dans `creation_tables.sql`.
 
 ## Captures d'écran
 
-[Ajouter ici une capture de la page des salles et une de « Mes réservations »]
+![Page des salles](captures-salles.png)
+![Mes réservations](captures-reservations.png)
 
 ## Pistes d'amélioration
 
