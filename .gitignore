@@ -1,0 +1,10 @@
+# Fichier de configuration local (identifiants de la base)
+config.php
+
+# Journaux et fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Dossier de l'éditeur
+.vscode/
